@@ -18,3 +18,6 @@ Forneça passos para testar as alterações feitas neste pull request.
 
 **Capturas de Tela:**
 Se aplicável, adicione capturas de tela para mostrar as alterações.
+
+**Testes locais:**
+Se aplicável, adicione capturas de tela para mostrar que a aplicação está funcionando localmente.
