@@ -1,5 +1,7 @@
 # AllBooks
 
+- Nesse projeto foi utilizado processo de ci com actions, configurado dependabot e proteção de branch
+
 Boas vindas a API do Allbooks
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
